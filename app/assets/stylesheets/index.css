@@ -1,0 +1,46 @@
+h1 {
+  margin: 17.42px 0;
+}
+
+table {
+  width: 745.35px;
+}
+
+th {
+  padding: 1px 1px 5px 1px;
+}
+th:nth-child(1) {
+  width: 192px;
+}
+th:nth-child(2) {
+  width: 400px;
+}
+th:nth-child(3) {
+  width: 145.35px;
+}
+
+td {
+  padding: 0 5px 7px 5px;
+}
+td a {
+  color: #000000;
+}
+
+h2 {
+  margin: 16.185px 0;
+}
+
+.field, .action {
+  margin-bottom: 10px;
+}
+
+.field input {
+  padding: 1px 2px;
+}
+.field textarea {
+  padding: 2px;
+}
+
+.action input {
+  padding: 1px 6px;
+}
